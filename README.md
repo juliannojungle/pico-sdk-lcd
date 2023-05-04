@@ -14,7 +14,7 @@ Sample project: how to use LCD with raspberry pico-sdk
 
 or
 
-- RaspberryPi Pico;
+- [RaspberryPi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/);
 - [1.28inch_LCD_Module](https://www.waveshare.com/wiki/1.28inch_LCD_Module);
 
 ## Wiring: :electric_plug:
