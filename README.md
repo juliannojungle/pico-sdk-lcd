@@ -8,7 +8,7 @@ Sample project: how to use LCD with raspberry pico-sdk
   - [ms-vscode-remote.vscode-remote-extensionpack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack);
   - [ms-vscode.vscode-serial-monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor).
 
-## B.O.M. (Bill Of Material): :shopping_cart:
+## B.O.M. (Bill Of Materials): :shopping_cart:
 
 - [RP2040-LCD-1.28](https://www.waveshare.com/wiki/RP2040-LCD-1.28)
 
